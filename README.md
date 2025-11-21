@@ -16,6 +16,6 @@ I'm Riley Cluff, a student at Brigham Young University-Idaho interested in Softw
 
 ## Let's Connect!
 
-- Here is my www.linkedin.com/in/riley-cluff-3a3ba838a
+- Here is my www.linkedin.com/in/riley-cluff-3a3ba838a [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
