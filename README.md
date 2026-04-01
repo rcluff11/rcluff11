@@ -7,7 +7,7 @@ I'm Riley Cluff, a student at Brigham Young University-Idaho interested in Softw
 ## About Me
 
 - I'm currently learning how to code with functions in Python as well as design algorithms.
-- My goals are to become prfecient in coding and be able to work on projects to add to my github page.
+- My goals are to become proficient in coding and be able to work on projects to add to my github page.
 
 ## Technologies and Tools
 
