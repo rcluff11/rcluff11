@@ -11,7 +11,7 @@ I'm Riley Cluff, a student at Brigham Young University-Idaho interested in Softw
 
 ## Technologies and Tools
 
-- Proficient in: Python, Java, HTML, CSS, C++
+- Proficient in: Python, Javascript, HTML, CSS, C++
 - Skills: problem solving, Critical Thinking
 
 ## Let's Connect!
