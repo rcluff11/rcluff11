@@ -28,8 +28,8 @@ https://rcluff11.github.io/wdd130/wwr/index.html
 
 FitPlan
 https://rcluff11.github.io/wdd131/personal_project/index.html
--This website was created to demonstrate the ability to make an dynamic website using Javascript. The website uses Javascript to filter through exercises when a tab is clicked and create a worout plan when the worlouts are added to the MyPlan section on the page.
+- This website was created to demonstrate the ability to make an dynamic website using Javascript. The website uses Javascript to filter through exercises when a tab is clicked and create a worout plan when the worlouts are added to the MyPlan section on the page.
 
 Eternal Quest
 https://github.com/rcluff11/cse210-projects/tree/main/prove/Develop05
--This project was created to be a kind of goal tracker, you can add many different types of goals each with point values that you decide on based on importance that wil add points to you "level". This was made to gamify your goal making experience.
+- This project was created to be a kind of goal tracker, you can add many different types of goals each with point values that you decide on based on importance that wil add points to you "level". This was made to gamify your goal making experience.
