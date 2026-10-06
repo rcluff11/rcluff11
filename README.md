@@ -22,9 +22,9 @@ Feel free to explore my repositories and don't hesitate to reach out. Happy codi
 
 ## Projects
 
-WWR
-https://rcluff11.github.io/wdd130/wwr/index.html
-- This website was created to demonstrate and practice how to create interactive websites with a parent page and multiple child pages.
+Text Based RPG Game
+https://github.com/rcluff11/CSE310/tree/main/Java_Text_RPG_Game
+- This game was created to allow me to develop the ability to learn other programming languages and create a program with them, as well as working alongside an AI agent to get it done well. 
 
 FitPlan
 https://rcluff11.github.io/wdd131/personal_project/index.html
