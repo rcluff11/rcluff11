@@ -40,6 +40,15 @@ I'm Riley Cluff, a Software Engineering student at Brigham Young University–Id
 - A C++ simulation of the Apollo lunar module's descent that models gravity, thrust, and vehicle weight to update the lander's position and velocity over time.
 - Built incrementally across course assignments and written to a formal coding standard (the BYU-Idaho C++ Style Guide). I also keep a personal code-review checklist, updated after each review to prevent repeat mistakes.
 
+### DateDeck
+- A date-idea app built as a team project. I turned the home page from a static grid into a swipeable card deck with Save and Hide controls, a remaining-ideas counter, and an "all caught up" empty state.
+- Decisions are saved in `localStorage` so they survive refreshes, with safe fallbacks for bad or missing data. I also added screen-reader labels and `aria-live` updates, and adjusted the layout for small phone screens.
+
+### Book Library CRUD API
+🔗 [Repo](https://github.com/rcluff11/ts-crud-api)
+- A REST API built with TypeScript and Express.js that lets you create, read, update, and delete books in a small library, stored in an in-memory array.
+- Includes typed models and repository methods, plus a custom `ValidationError` that returns a clear `400` error message when data is missing or invalid.
+
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riley-cluff-3a3ba838a)
