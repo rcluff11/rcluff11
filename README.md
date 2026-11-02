@@ -36,6 +36,7 @@ I'm Riley Cluff, a Software Engineering student at Brigham Young University–Id
 - A C# goal tracker that gamifies personal goals. Users create different types of goals, assign point values based on importance, and earn points that raise their level as they complete them.
 
 ### Apollo Lunar Lander Physics Simulator
+🔗 [Repo](your-link-here)
 - A C++ simulation of the Apollo lunar module's descent that models gravity, thrust, and vehicle weight to update the lander's position and velocity over time.
 - Built incrementally across course assignments and written to a formal coding standard (the BYU-Idaho C++ Style Guide). I also keep a personal code-review checklist, updated after each review to prevent repeat mistakes.
 
